@@ -1,0 +1,15 @@
+{
+    "name": "Job Tracker Scraper V2",
+    "version": "1.0.0",
+    "description": "Job Application Scraper",
+    "manifest_version": 3,
+    "author": "Nan Hpauyu",
+    "action":{
+        "default_popup": "home.html",
+        "default_title": "Extension"
+    },
+    "permissions" : ["activeTab","scripting" ],
+    "host_permissions": [
+    "https://127.0.0.1:8000/*"
+]
+}
