@@ -1,7 +1,7 @@
 {
-    "name": "Job Tracker Scraper V2",
+    "name": "Scraper",
     "version": "1.0.0",
-    "description": "Job Application Scraper",
+    "description": "Scraper",
     "manifest_version": 3,
     "author": "Nan Hpauyu",
     "action":{
